@@ -1,3 +1,8 @@
+# Bento Grid Project from Frontend mentor 
+
+This is my attempt at creating a bento grid using bootstraps 5. I found that only using the styles provided by bootstraps gave me a bit of restriction when executing this design and in the time I was given I was not able to perfectly replicate the design. I came as close as I could and maybe with some custom css this could be perfectly executed using the bootstraps container.A challenge I faced was getting the grid to perfectly display especially in different media break points. Everything Kind of behaved in its own way or were strictly aligned in the grid. It was hard to manipulate some of the cards. But I did the best I could.
+
+
 # Reflection Questions
 
 ### Challenges you encountered during the project.
